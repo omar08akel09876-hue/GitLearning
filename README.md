@@ -5,3 +5,7 @@ This is my first project using Git.
 
 - Git basics
 - GitHub
+
+## Branching
+
+I am learning Git branches and merge.
