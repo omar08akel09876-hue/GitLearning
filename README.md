@@ -13,3 +13,7 @@ I am learning Git branches and merge.
 # Project Status: Stable
 
 # Learn git reset
+
+# Temporary Feature
+
+This feature will be reverted.
