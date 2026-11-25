@@ -11,3 +11,5 @@ This is my first project using Git.
 I am learning Git branches and merge.
 
 # Project Status: Stable
+
+# Learn git reset
