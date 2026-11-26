@@ -12,4 +12,8 @@ I am learning Git branches and merge.
 
 # Project Status: Stable
 
-# Learn git reset
+## Learn git reset
+
+## Updated from GitHub
+
+This change was made remotely.
